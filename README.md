@@ -1,110 +1,188 @@
-# Hi, I’m Brown 👋
+# Hi, I'm Brown 👋
 
-🔐 **Cybersecurity & Network Security Enthusiast**  
-🌐 CCNA | SOC Analyst | Cloud Security Learner  
-📍 Kenya  
+## Network Security Enthusiast | CCNA Certified | SOC Analyst
 
-I am passionate about securing networks, analyzing security events, and understanding how attacks happen — and how to stop them.  
-My focus is on **Blue Team operations, network defense, and cloud security**, backed by hands-on labs and practical write-ups.
+**From pastor and restaurant owner to cybersecurity professional** — my unconventional path is my advantage.
+
+I'm passionate about **network security, firewall configuration, and SOC operations**. I learn by doing: building labs, analyzing traffic, and documenting everything. My focus is on **network defense, incident response, and secure infrastructure design**.
+
+🔐 Blue Team Operations | 🌐 Network Defense | 📊 Security Monitoring  
+📍 Nairobi, Kenya | Open to Remote | Relocatable
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technical Skills
 
-**Networking**
-- TCP/IP, OSI Model
-- VLANs, Trunking, Inter-VLAN Routing
-- Routing & Switching
-- ACLs, NAT
+### Networking & Security
+- **Certifications:** CCNA | AfricaHackon Bootcamp Graduate
+- **In Progress:** Cisco Ethical Hacker | CyberOps Associate | Cloud & Network Security (Cyber Shujaa)
+- **Core Knowledge:** TCP/IP, OSI Model, VLANs, Routing & Switching, ACLs, NAT
+- **Network Security:** Firewall configuration & hardening, VPNs, IDS/IPS (Snort), Network segmentation
 
-**Security**
-- SIEM fundamentals (alert analysis & investigation)
-- IDS/IPS (Snort concepts)
-- Firewalls & VPNs
-- Network hardening & monitoring
+### Security Operations
+- **SIEM & Monitoring:** Wazuh, Security Onion, Splunk (alert analysis & investigation)
+- **Traffic Analysis:** Wireshark, tcpdump, protocol analysis
+- **Incident Response:** Log correlation, triage methodology, threat detection
+- **Firewall Management:** pfSense, ACL implementation, rule optimization
 
-**Tools**
-- Cisco Packet Tracer
-- Wireshark
-- Splunk
-- Snort
-- Linux (basic administration)
+### Tools & Platforms
+- **Security Lab:** Personal SOC setup (Wazuh, Security Onion, pfSense)
+- **Network Tools:** Cisco Packet Tracer, GNS3, Wireshark
+- **Cloud:** AWS fundamentals, IAM, Security Groups, CloudTrail basics
+- **Operating Systems:** Linux (Ubuntu, Kali), Windows Server
+- **Practice Platforms:** 500+ hours on TryHackMe & HackTheBox
 
-**Cloud & Systems**
-- AWS fundamentals
-- IAM concepts
-- Security Groups & NACLs
-- Log analysis (CloudTrail basics)
+### Professional Skills
+- **Technical Documentation:** Security policies, network diagrams, incident reports
+- **Crisis Leadership:** From diverse background in ministry and business operations
+- **Analytical Investigation:** Pattern recognition, root cause analysis
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 Network Security Labs
-Hands-on labs focusing on secure network design and configuration.
+### 🔹 [Home SOC Lab](link-to-repo)
+Built a complete Security Operations Center environment for hands-on learning.
+- **Stack:** Wazuh SIEM, Security Onion, pfSense firewall
+- **Features:** Real-time alerting, log aggregation, network monitoring
+- **Skills Demonstrated:** SIEM configuration, firewall rules, incident detection
+- **Documentation:** Network diagrams, configuration files, lessons learned
+
+➡️ *Includes architecture diagrams, configs, and deployment guide*
+
+---
+
+### 🔹 [Network Security Labs](link-to-repo)
+Hands-on labs focusing on secure network design and hardening.
 - VLAN segmentation & port security
 - DHCP snooping and Dynamic ARP Inspection
-- Secure inter-VLAN routing
-- Access control using ACLs  
+- Secure inter-VLAN routing with ACLs
+- Firewall policy implementation
+- Network traffic analysis and threat hunting
 
-➡️ *Includes Packet Tracer files, diagrams, and explanations*
-
----
-
-### 🔹 SOC Analyst Write-Ups
-Blue Team–oriented incident analysis and security investigations.
-- Failed login and brute-force detection
-- IDS alert analysis
-- Log correlation and triage methodology
-- Incident response fundamentals  
-
-➡️ *Structured using real SOC workflows*
+➡️ *Packet Tracer files, topology diagrams, and step-by-step explanations*
 
 ---
 
-### 🔹 Home Network Security
-Practical security improvements for a small/home network.
-- Network topology documentation
-- Router and firewall hardening
-- DNS and traffic monitoring concepts
-- VPN security overview  
+### 🔹 [SOC Analyst Write-Ups](link-to-repo)
+Blue Team incident analysis and security investigations.
+- Failed login and brute-force attack detection
+- IDS/IPS alert analysis and validation
+- Log correlation across multiple sources
+- Incident triage and response procedures
+- MITRE ATT&CK framework mapping
+
+➡️ *Structured using real SOC workflows and industry best practices*
 
 ---
 
-### 🔹 Cloud Security Labs
-Entry-level cloud security scenarios and misconfiguration analysis.
-- IAM privilege risks
-- Public resource exposure
-- Security group misconfigurations
-- Cloud log review and findings
+### 🔹 [Network Security Scripts](link-to-repo)
+Python and Bash scripts for network security automation.
+- Network port scanner with service detection
+- Packet sniffer for protocol analysis
+- Log parser for security event correlation
+- Firewall configuration backup automation
+- Network audit and compliance checker
+
+➡️ *Well-documented code with usage examples*
 
 ---
 
-## 📝 Technical Write-Ups
+### 🔹 [Security Documentation Templates](link-to-repo)
+Professional security documentation for enterprise environments.
+- Firewall change management procedures
+- Incident response playbooks
+- Network security policy templates
+- Security audit checklists
+- Network topology documentation standards
 
-I document what I learn to reinforce understanding and share knowledge.
+➡️ *Production-ready templates based on industry frameworks*
 
+---
+
+### 🔹 [TryHackMe & HackTheBox Write-Ups](link-to-repo)
+Detailed walkthroughs of security challenges and CTF rooms.
+- Network reconnaissance and enumeration
+- Vulnerability identification and exploitation
+- Privilege escalation techniques
+- Post-exploitation and persistence
+- Blue Team detection strategies
+
+➡️ *Educational write-ups with defensive insights*
+
+---
+
+## 📝 Technical Write-Ups & Blog
+
+I document what I learn to reinforce understanding and share knowledge:
+
+**Network Security:**
+- Building a Home SOC Lab from Scratch
+- pfSense Firewall Configuration Best Practices  
 - How ARP Resolves MAC Addresses in a Local Network  
+- VLAN Security: Preventing VLAN Hopping Attacks
+
+**Security Operations:**
+- Understanding IDS Alerts in a SOC Environment  
+- Network Traffic Analysis: Detecting Suspicious Activity
+- SIEM Rule Creation for Common Attack Patterns
+- Incident Response: From Detection to Containment
+
+**Cloud Security:**
+- AWS Security Groups vs NACLs: When to Use What
+- IAM Privilege Risks and Least Privilege Implementation
+- Cloud Log Review and Security Findings
+
+**Network Protocols:**
 - VPN Protocols: Security vs Performance Trade-offs  
 - DHCP Relay & Common Misconfigurations  
-- Understanding IDS Alerts in a SOC Environment  
+- TCP/IP Deep Dive: Security Implications
 
 ---
 
 ## 🎯 Current Focus
-- SOC analyst skills development  
-- Cloud security fundamentals  
-- Log analysis and threat detection  
-- Defensive security best practices  
+
+- ✅ Building production-grade SOC skills
+- ✅ Network security automation with Python
+- ✅ Cloud security fundamentals (AWS)
+- ✅ Advanced firewall configuration and management
+- ✅ SIEM rule tuning and threat hunting
+- 📚 Pursuing: Cisco Ethical Hacker & CyberOps Associate certifications
 
 ---
 
-## 🌍 Portfolio & Contact
+## 💼 What I'm Looking For
 
-- 🌐 Portfolio Website: *(add your WordPress link here)*  
-- 💼 LinkedIn: *(add link)*  
-- 📧 Email: *(optional)*  
+I'm seeking entry-level opportunities in:
+- **Network Security Engineer** (Junior/Entry-level)
+- **SOC Analyst** (Tier 1)
+- **Firewall Administrator**
+- **Cybersecurity Instructor/Trainer**
+
+**What I bring:**
+- Strong networking fundamentals (CCNA certified)
+- Hands-on security lab experience
+- Technical writing and documentation skills
+- Crisis leadership from unconventional background
+- Genuine passion for network security and configuration
 
 ---
 
-> *“Security is not a product, but a process.”*
+## 🌍 Connect With Me
+
+- 🌐 **Portfolio:** [yourwebsite.com](link)  
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](link)  
+- 📧 **Email:** your.email@example.com  
+- 📍 **Location:** Nairobi, Kenya | Open to Remote | Relocatable
+
+---
+
+### 📊 GitHub Stats
+
+![Brown's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+> *"From pulpit to packets — my journey proves that career transitions are possible with commitment, hands-on learning, and genuine passion. Security is not just a job for me; it's a calling."*
