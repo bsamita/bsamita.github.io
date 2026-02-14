@@ -171,17 +171,17 @@ I'm seeking entry-level opportunities in:
 ## 🌍 Connect With Me
 
 - 🌐 **Portfolio:** [yourwebsite.com](link)  
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](link)  
-- 📧 **Email:** your.email@example.com  
-- 📍 **Location:** Nairobi, Kenya | Open to Remote | Relocatable
+- 💼 **LinkedIn:** https://www.linkedin.com/in/bsamita/  
+- 📧 **Email:** brownsamita@gmail.com  
+- 📍 **Location:** Nairobi, Kenya . Open to Remote .Relocatable
 
 ---
 
 ### 📊 GitHub Stats
 
-![Brown's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Brown's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsamita&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bsamita&layout=compact&theme=radical)
 
 ---
 
