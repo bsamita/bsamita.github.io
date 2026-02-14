@@ -4,7 +4,7 @@ author:
   avatar           : "/assets/images/Brown.jpeg"  # Path to your photo
   bio              : "Network Security Enthusiast | CCNA | SOC Analyst"
   location         : "Nairobi, Kenya"
-  email            : 
+  email            : "brownsamita@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
