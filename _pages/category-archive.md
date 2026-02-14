@@ -8,6 +8,7 @@ author_profile: true
 Technical write-ups and security projects organized by category.
 
 **What you'll find here:**
+
 - **Network Security** — Firewall configs, VLAN setups, hardening guides
 - **SOC Operations** — Log analysis, incident investigations, alert triage
 - **Home Lab** — SOC environment builds, tool configurations, lessons learned
