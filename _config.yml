@@ -1,14 +1,14 @@
 # Site Author
 author:
-  name             : "Brown"
-  avatar           : "/assets/images/bio-photo.jpg"  # Path to your photo
-  bio              : "Network Security Enthusiast | CCNA | SOC Analyst"
-  location         : "Nairobi, Kenya"
-  email            : "brownsamita@gmail.com"
+  name: "Brown"
+  avatar: "/assets/images/Brown.jpeg"  # Changed from 'image' to 'avatar'
+  bio: "Network Security Enthusiast | CCNA | SOC Analyst"
+  location: "Nairobi, Kenya"
+  email: "brownsamita@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bsamita"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourprofile"
+      url: "https://linkedin.com/in/bsamita"
