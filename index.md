@@ -3,8 +3,6 @@ layout: home
 author_profile: true
 ---
 
-## Hi, I’m Brown Samita 👋
-
 I’m a **Cybersecurity and Network Security Enthusiast** with a strong interest in **Security Operations (SOC)**, **network defense**, and **cloud security fundamentals**.
 
 My work focuses on:
