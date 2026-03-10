@@ -170,11 +170,11 @@ I'm seeking entry-level opportunities in:
 
 ## 🌍 Connect With Me
 
-- 🌐 **Portfolio:** [yourwebsite.com](link)  
+  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/bsamita/  
-- 📧 **Email:** brownsamita@gmail.com  
+- 📧 **Email:** bsamita33@gmail.com  
 - 📍 **Location:** Nairobi, Kenya . Open to Remote .Relocatable
-
+- **Phone:** +254720149645
 ---
 
 ### 📊 GitHub Stats
