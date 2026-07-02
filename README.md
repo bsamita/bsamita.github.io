@@ -90,7 +90,7 @@ Hands-on labs focusing on secure network design and hardening.
 - ✅ Network traffic analysis and PCAP forensics with Wireshark/TCPdump
 - ✅ Layer 2 and web application attack techniques, from an offensive-to-defensive lens
 - ✅ Cloud security fundamentals (AWS)
-- 📚 Pursuing: Cisco Ethical Hacker & CyberOps Associate certifications
+- 📚 Pursuing: CyberOps Associate certification
 
 ---
 
