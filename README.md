@@ -1,12 +1,12 @@
 # Hi, I'm Brown 👋
 
-## Network Security Enthusiast | CCNA Certified | SOC Analyst
+## SOC Level 1 Analyst | Network & Cloud Security | CCNA Certified
 
-**From pastor and restaurant owner to cybersecurity professional** — my unconventional path is my advantage.
+**From business operations and national ICT field deployment to cybersecurity professional** — my background outside tech is exactly what makes me effective inside it.
 
-I'm passionate about **network security, firewall configuration, and SOC operations**. I learn by doing: building labs, analyzing traffic, and documenting everything. My focus is on **network defense, incident response, and secure infrastructure design**.
+I'm passionate about **network security, SOC operations, and threat detection**. I learn by doing: building labs, analyzing traffic, and documenting everything. My focus is on **network defense, incident response, and secure infrastructure design**.
 
-🔐 Blue Team Operations | 🌐 Network Defense | 📊 Security Monitoring  
+🔐 Blue Team Operations | 🌐 Network Defense | 📊 Security Monitoring
 📍 Nairobi, Kenya | Open to Remote | Relocatable
 
 ---
@@ -14,139 +14,82 @@ I'm passionate about **network security, firewall configuration, and SOC operati
 ## 🛠️ Technical Skills
 
 ### Networking & Security
-- **Certifications:** CCNA | AfricaHackon Bootcamp Graduate
-- **In Progress:** Cisco Ethical Hacker | CyberOps Associate | Cloud & Network Security (Cyber Shujaa)
+- **Certifications:** CCNA (Cisco, 2021) | AfricaHackon Swara Bootcamp Graduate (2026) | Cloud & Network Security, Merit — Cyber Shujaa (2026) | Cisco Ethical Hacker- Cyber Shujaa
+- **In Progress:** Cyber Defense Analyst by Splunk | CyberOps Associate (Cisco, Q4 2026)
 - **Core Knowledge:** TCP/IP, OSI Model, VLANs, Routing & Switching, ACLs, NAT
-- **Network Security:** Firewall configuration & hardening, VPNs, IDS/IPS (Snort), Network segmentation
+- **Network Security:** Firewall configuration & hardening, VPNs, IDS/IPS (Snort), network segmentation
 
 ### Security Operations
 - **SIEM & Monitoring:** Wazuh, Security Onion, Splunk (alert analysis & investigation)
-- **Traffic Analysis:** Wireshark, tcpdump, protocol analysis
-- **Incident Response:** Log correlation, triage methodology, threat detection
+- **Traffic Analysis:** Wireshark, tcpdump, TShark, protocol analysis, PCAP forensics
+- **Incident Response:** Log correlation, triage methodology, threat detection, MITRE ATT&CK mapping
 - **Firewall Management:** pfSense, ACL implementation, rule optimization
 
-### Tools & Platforms
-- **Security Lab:** Personal SOC setup (Wazuh, Security Onion, pfSense)
-- **Network Tools:** Cisco Packet Tracer, GNS3, Wireshark
-- **Cloud:** AWS fundamentals, IAM, Security Groups, CloudTrail basics
-- **Operating Systems:** Linux (Ubuntu, Kali), Windows Server
-- **Practice Platforms:** 500+ hours on TryHackMe & HackTheBox
+### Security Testing
+- **Tools:** Nmap, Metasploit, Burp Suite, ettercap, Kali Linux
+- **Web Application Security:** HTML Injection, XSS, cookie theft, GET parameter manipulation, OWASP Top 10
+- **Layer 2 Attacks:** MAC flooding, ARP spoofing, MITM interception and detection
 
-### Professional Skills
-- **Technical Documentation:** Security policies, network diagrams, incident reports
-- **Crisis Leadership:** From diverse background in ministry and business operations
-- **Analytical Investigation:** Pattern recognition, root cause analysis
+### Tools & Platforms
+- **Security Lab:** Personal SOC setup (Wazuh, Security Onion, pfSense on VirtualBox)
+- **Network Tools:** Cisco Packet Tracer, GNS3, Wireshark
+- **Cloud:** AWS — GuardDuty, CloudTrail, Security Hub, IAM, Security Groups
+- **Systems & Scripting:** Python, PowerShell, Bash, Windows, Linux (Ubuntu, Kali), Active Directory
+- **Frameworks:** MITRE ATT&CK, Cyber Kill Chain
+- **ICT Field Operations:** KIEMS kit configuration, biometric equipment deployment
+- **Practice Platforms:** 500+ hours on TryHackMe & HackTheBox (SOC Level 1 / Blue Team paths)
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 [Home SOC Lab](link-to-repo)
+### 🔹 [TryHackMe & HackTheBox Write-Ups](https://github.com/bsamita/TryHackMe-HackTheBox-Writeups)
+Security investigation write-ups following real SOC analyst workflows — methodology, tools, findings, and defensive recommendations for every lab.
+- **Network Traffic Analysis** (HackTheBox) — TCPdump filtering, Wireshark HTTP file extraction, RDP decryption, MITRE ATT&CK mapping
+- **L2 MAC Flooding & ARP Spoofing** (TryHackMe) — MAC flooding, ARP cache poisoning, MITM credential interception
+- **Introduction to Web Applications** (HackTheBox) — HTML Injection, XSS, cookie theft, back-end parameter manipulation, OWASP Top 10
+
+➡️ *Each write-up includes annotated screenshots and a MITRE ATT&CK mapping table tying findings to adversary behavior*
+
+---
+
+### 🔹 [Home SOC Lab](https://github.com/bsamita/Home-SOC-Lab)
 Built a complete Security Operations Center environment for hands-on learning.
-- **Stack:** Wazuh SIEM, Security Onion, pfSense firewall
-- **Features:** Real-time alerting, log aggregation, network monitoring
-- **Skills Demonstrated:** SIEM configuration, firewall rules, incident detection
-- **Documentation:** Network diagrams, configuration files, lessons learned
+- **Stack:** Wazuh SIEM, Security Onion, pfSense firewall, AWS GuardDuty/CloudTrail/Security Hub
+- **Features:** Real-time alerting, log aggregation, network monitoring, cloud SOC simulation
+- **Skills Demonstrated:** SIEM configuration, firewall rules, incident detection, MITRE ATT&CK-mapped detection logic
+- 500+ hours of documented practice since June 2025
 
-➡️ *Includes architecture diagrams, configs, and deployment guide*
-
----
-
-### 🔹 [Network Security Labs](link-to-repo)
-Hands-on labs focusing on secure network design and hardening.
-- VLAN segmentation & port security
-- DHCP snooping and Dynamic ARP Inspection
-- Secure inter-VLAN routing with ACLs
-- Firewall policy implementation
-- Network traffic analysis and threat hunting
-
-➡️ *Packet Tracer files, topology diagrams, and step-by-step explanations*
+➡️ *Includes architecture diagrams, configs, and lessons learned*
 
 ---
 
-### 🔹 [SOC Analyst Write-Ups](link-to-repo)
+### 🔹 [SOC Analyst Write-Ups](https://github.com/bsamita/SOC-Analyst-Writeups)
 Blue Team incident analysis and security investigations.
-- Failed login and brute-force attack detection
+- Port scan and PCAP traffic analysis
 - IDS/IPS alert analysis and validation
-- Log correlation across multiple sources
-- Incident triage and response procedures
+- Log correlation and process auditing
 - MITRE ATT&CK framework mapping
 
 ➡️ *Structured using real SOC workflows and industry best practices*
 
 ---
 
-### 🔹 [Network Security Scripts](link-to-repo)
-Python and Bash scripts for network security automation.
-- Network port scanner with service detection
-- Packet sniffer for protocol analysis
-- Log parser for security event correlation
-- Firewall configuration backup automation
-- Network audit and compliance checker
-
-➡️ *Well-documented code with usage examples*
-
----
-
-### 🔹 [Security Documentation Templates](link-to-repo)
-Professional security documentation for enterprise environments.
-- Firewall change management procedures
-- Incident response playbooks
-- Network security policy templates
-- Security audit checklists
-- Network topology documentation standards
-
-➡️ *Production-ready templates based on industry frameworks*
-
----
-
-### 🔹 [TryHackMe & HackTheBox Write-Ups](link-to-repo)
-Detailed walkthroughs of security challenges and CTF rooms.
-- Network reconnaissance and enumeration
-- Vulnerability identification and exploitation
-- Privilege escalation techniques
-- Post-exploitation and persistence
-- Blue Team detection strategies
-
-➡️ *Educational write-ups with defensive insights*
-
----
-
-## 📝 Technical Write-Ups & Blog
-
-I document what I learn to reinforce understanding and share knowledge:
-
-**Network Security:**
-- Building a Home SOC Lab from Scratch
-- pfSense Firewall Configuration Best Practices  
-- How ARP Resolves MAC Addresses in a Local Network  
-- VLAN Security: Preventing VLAN Hopping Attacks
-
-**Security Operations:**
-- Understanding IDS Alerts in a SOC Environment  
-- Network Traffic Analysis: Detecting Suspicious Activity
-- SIEM Rule Creation for Common Attack Patterns
-- Incident Response: From Detection to Containment
-
-**Cloud Security:**
-- AWS Security Groups vs NACLs: When to Use What
-- IAM Privilege Risks and Least Privilege Implementation
-- Cloud Log Review and Security Findings
-
-**Network Protocols:**
-- VPN Protocols: Security vs Performance Trade-offs  
-- DHCP Relay & Common Misconfigurations  
-- TCP/IP Deep Dive: Security Implications
+### 🔹 Network Security Labs *(link coming soon)*
+Hands-on labs focusing on secure network design and hardening.
+- VLAN segmentation & port security
+- DHCP snooping and Dynamic ARP Inspection
+- Secure inter-VLAN routing with ACLs
+- Firewall policy implementation
 
 ---
 
 ## 🎯 Current Focus
 
-- ✅ Building production-grade SOC skills
-- ✅ Network security automation with Python
+- ✅ SOC Level 1 fundamentals: SIEM monitoring, alert triage, network defense
+- ✅ Network traffic analysis and PCAP forensics with Wireshark/TCPdump
+- ✅ Layer 2 and web application attack techniques, from an offensive-to-defensive lens
 - ✅ Cloud security fundamentals (AWS)
-- ✅ Advanced firewall configuration and management
-- ✅ SIEM rule tuning and threat hunting
 - 📚 Pursuing: Cisco Ethical Hacker & CyberOps Associate certifications
 
 ---
@@ -154,27 +97,26 @@ I document what I learn to reinforce understanding and share knowledge:
 ## 💼 What I'm Looking For
 
 I'm seeking entry-level opportunities in:
-- **Network Security Engineer** (Junior/Entry-level)
 - **SOC Analyst** (Tier 1)
-- **Firewall Administrator**
-- **Cybersecurity Instructor/Trainer**
+- **Network Security Engineer** (Junior/Entry-level)
+- **Cybersecurity Trainer/Instructor**
 
 **What I bring:**
 - Strong networking fundamentals (CCNA certified)
-- Hands-on security lab experience
-- Technical writing and documentation skills
-- Crisis leadership from unconventional background
-- Genuine passion for network security and configuration
+- Hands-on SOC lab experience across SIEM, firewall, and traffic analysis
+- Real-world ICT field deployment experience (national voter registration exercise, KIEMS kits, 37-day live deployment)
+- Track record training non-technical audiences under pressure — journalists in high-risk environments, teachers across 60+ schools
+- Technical writing and documentation skills, demonstrated across every write-up in this profile
+- Business operations background — running physical security (CCTV, access control) and network hardening for a live business
+- Genuine passion for network security and continuous, self-directed learning
 
 ---
 
 ## 🌍 Connect With Me
 
-  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/bsamita/  
-- 📧 **Email:** bsamita33@gmail.com  
-- 📍 **Location:** Nairobi, Kenya . Open to Remote .Relocatable
-- **Phone:** +254720149645
+- 💼 **LinkedIn:** [linkedin.com/in/bsamita](https://www.linkedin.com/in/bsamita/)
+- 📍 **Location:** Nairobi, Kenya · Open to Remote · Relocatable
+
 ---
 
 ### 📊 GitHub Stats
@@ -185,4 +127,4 @@ I'm seeking entry-level opportunities in:
 
 ---
 
-> *"From pulpit to packets — my journey proves that career transitions are possible with commitment, hands-on learning, and genuine passion. Security is not just a job for me; it's a calling."*
+> *"Career transitions are possible with commitment, hands-on learning, and genuine passion. Security is not just a job for me — it's what I show up for every day."*
