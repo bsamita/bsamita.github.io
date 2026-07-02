@@ -3,20 +3,21 @@ layout: home
 author_profile: true
 ---
 
-I'm Brown — a **network security enthusiast** transitioning into cybersecurity from an unconventional background in ministry and business.
+I'm Brown — a **network security Engineer** | **Cyber Defense Analyst** and an **Ethical Hacker**
 
-I focus on **network security, SOC operations, and firewall configuration**. I learn by building: home labs, security monitoring systems, and documented projects.
+I focus on **network security, SOC operations, and threat detection**. I learn by building: home labs, security monitoring systems, and documented write-ups.
 
 **What I do:**
 - Configure and harden network infrastructure
-- Analyze traffic and detect threats
+- Analyze traffic and detect threats (Wireshark, tcpdump, TShark)
 - Build SOC environments (Wazuh, Security Onion, pfSense)
-- Document everything I learn
+- Document every lab as a structured write-up — methodology, findings, defensive recommendations
 
 **Currently:**
 - CCNA certified
-- Building hands-on experience through 500+ lab hours
-- Seeking entry-level roles in Network Security or SOC
+- 500+ hours across TryHackMe & HackTheBox (SOC Level 1 / Blue Team focus)
+- Pursuing CyberOps Associate
+- Seeking entry-level roles in SOC Analysis or Network Security
 
 👉 **[View My Projects on GitHub](https://github.com/bsamita)**
 
